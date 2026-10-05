@@ -1,0 +1,13 @@
+name = "danlib"
+filename = "danlib-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lqO2UtsV/versions/sZL7tc6o/danlib-3.0.0.jar"
+hash-format = "sha512"
+hash = "9657f3e4d1f545fde40d52c61aeb8c266e15c5d0e4aa5e684eaf6b9b3c35e4d269c728d2fdf5193e9cd964e276c97293166e425f45dbfef5cd70bc9fefddb4db"
+
+[update]
+[update.modrinth]
+mod-id = "lqO2UtsV"
+version = "sZL7tc6o"

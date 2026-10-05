@@ -1,0 +1,13 @@
+name = "Wakes Reforged"
+filename = "wakes-26.3-Fabric-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E0SdeAoH/versions/odQgwzSR/wakes-26.3-Fabric-1.4.1.jar"
+hash-format = "sha512"
+hash = "a09ba13b9ed0123d62aa9e9df93dabfcd6e6e510fb5c09dc0c9c7615a40e5bef0928ea1b3b9ab5b1c1c0665020c883adfa7c6a697d6f46e74b557f0dd6f4c3eb"
+
+[update]
+[update.modrinth]
+mod-id = "E0SdeAoH"
+version = "odQgwzSR"

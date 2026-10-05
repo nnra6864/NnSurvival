@@ -1,0 +1,13 @@
+name = "wood plus"
+filename = "wood plus-4.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OZNhUdEY/versions/6h08hrao/wood%20plus-4.0.1.jar"
+hash-format = "sha512"
+hash = "2eb08af59e4020a61a3ea7981e40df592b4ce0b948b0ce60153148daac9d837b64b081582283b61c82883d55ae09be05097cb3946ad3e865906bf204df9987ce"
+
+[update]
+[update.modrinth]
+mod-id = "OZNhUdEY"
+version = "6h08hrao"

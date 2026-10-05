@@ -1,0 +1,13 @@
+name = "Blockus"
+filename = "blockus-2.18.1+26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zFiY2Go0/versions/H3btPNO2/blockus-2.18.1%2B26.3.jar"
+hash-format = "sha512"
+hash = "7f6ff0f3cfe9376c6e100934bb1192c2988b2b92ed43f82a51a1fa63ca8fdeb3ee878bc6ce7b8737443a718bb6a5c355ab4cdfdf1fc663d5531bf46da428cae5"
+
+[update]
+[update.modrinth]
+mod-id = "zFiY2Go0"
+version = "H3btPNO2"

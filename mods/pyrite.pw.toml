@@ -1,0 +1,13 @@
+name = "Pyrite"
+filename = "pyrite-0.18.3+26.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qO4ozPoe/versions/FE3EbesV/pyrite-0.18.3%2B26.3-fabric.jar"
+hash-format = "sha512"
+hash = "821e6b2885a8739eec5c36eea2102f4bc0bbed66cc6024d0b97cc125369da1d629e71d5b807e9bfd61bb7ddad84ad45652c16d04eb890bb860b30cfe7e53c94e"
+
+[update]
+[update.modrinth]
+mod-id = "qO4ozPoe"
+version = "FE3EbesV"

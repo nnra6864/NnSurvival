@@ -1,0 +1,13 @@
+name = "Quality of Queso"
+filename = "qualityofqueso-1.7.17_fabric-mc26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sj7HGYie/versions/YZV8q5xM/qualityofqueso-1.7.17_fabric-mc26.3.jar"
+hash-format = "sha512"
+hash = "bf968537d9c6eb513b4be4dc66aa8873511a4c4295be173998a0aaa7c948defd45562d6ec58875afb9eeb3c0500d2a85665fd62816ebc331f9ec808db420e50a"
+
+[update]
+[update.modrinth]
+mod-id = "Sj7HGYie"
+version = "YZV8q5xM"

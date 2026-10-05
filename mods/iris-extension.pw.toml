@@ -1,0 +1,13 @@
+name = "Iris Extension"
+filename = "IrisExtension-fabric-1.0.3-mc26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ReJLtXi4/versions/lutVew4b/IrisExtension-fabric-1.0.3-mc26.3.jar"
+hash-format = "sha512"
+hash = "99af92b5415fd2198f8ab6d5184f3f950a95050e71d752498e927dfe06a8cba72ccc4c82766e17f9bdad562fbd4827bc4ba06f3b33d403f25a2f066e02371f59"
+
+[update]
+[update.modrinth]
+mod-id = "ReJLtXi4"
+version = "lutVew4b"
