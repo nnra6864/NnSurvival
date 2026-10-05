@@ -326,6 +326,11 @@ hash = "4d8432eed6984a86acf6c9f056755b3f9082eb8fcb5b3f37e96498e7871e40c9"
 metafile = true
 
 [[files]]
+file = "mods/libjf.pw.toml"
+hash = "bed8aeaec1b9105540430b612aa921be357141c56f2887101f8bd9677e289bc2"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "a39389e4c813b70b984a0c8aed769825b32c321ee0b9aed1151d92cb38f77357"
 metafile = true
@@ -541,6 +546,11 @@ hash = "4d42bccd20e3c2ad79d9b627921b141f7155a3ea972a05e9a139d95cb7957c2d"
 metafile = true
 
 [[files]]
+file = "mods/respackopts.pw.toml"
+hash = "d2f02f516aad0084512313411eec04cecc9d6114ffeb394e254beb55b3f15e17"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "c0464621140cfc12b4b7b7c87cfd46e869f3656e4804361846198ef04c3a92c7"
 metafile = true
@@ -603,6 +613,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "9b0969e4afbc18124775c008361dc1cfb9a17e49098d93d067b6342a4a54427c"
+metafile = true
+
+[[files]]
+file = "mods/sparsestructures.pw.toml"
+hash = "25a589ad3ecc948beb3ddbcec891d30187edde3bfe60bbe3756435aff9794ed1"
 metafile = true
 
 [[files]]
@@ -718,4 +733,119 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "2eab932dd5793bbbba9959eb0924d386e0705e96d58b8f6249cd75804c713c18"
+metafile = true
+
+[[files]]
+file = "resourcepacks/animated-items.pw.toml"
+hash = "3eae18e725cb8eb6eeb3becd6a07a0a017a26335547f1193fe43779e59157956"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-lanterns.pw.toml"
+hash = "de6b3e932cd342417feeba190561e991acb3e79440b80b581383165705174345"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "c26f8da8b6f013fb7e917e29fc6ae783eb379c539da12d9d61196bc762fd26e1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/connected-bricks.pw.toml"
+hash = "d48f748f490674e9a0128eb9f605791afa1969142f5bfc795b11981dddae65a2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/connected-paths.pw.toml"
+hash = "34e99ab0c3b0464feec6497cff793b063eeae267ee9cd5cd55e55c5cb88131ec"
+metafile = true
+
+[[files]]
+file = "resourcepacks/connected-rocks.pw.toml"
+hash = "6f75bcd425bfcd7598f07cd03538ff8162f1dd84826bf641cdccbbc43640050f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-dark-mode-expansion.pw.toml"
+hash = "02e66094a85edb2f08a8c9b4b3382c83246370e28628e1d9eaba3b664d6c92fe"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "8471b70022e13faced943b6377e0e35c873ed422692025a24c806c462f89674e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-hd-64x.pw.toml"
+hash = "f0801f22bf303e9de8d430e51e1c8d04f319a7485a919392032ad086d117509f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchant-icons-countxd.pw.toml"
+hash = "9d0cc29dd2f95d51d1b9df107a5b9bc8f13505964ea96d3b95fc45186c0730b0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/even-better-enchants.pw.toml"
+hash = "4d611d2bbd96a65ee45a5f07b430780a58a6ed795754cb9c4c5357650cc57d47"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fa-player-extension.pw.toml"
+hash = "b10943dd0c7472c8782d27e1239a851dfa41ee21608dff9207b84c0a81b56e20"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fancy-crops.pw.toml"
+hash = "0cb5fc8c29fb99530cc20e013347558e198a686420aaf996fa03b9e23fa291dd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "3874d5d4499148996d5e11f9bee74f669f0e5901440edf7aab3c5e55d14f1829"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "91f03f95a740457e053a3c265b56ebe3b26342205c5e25ba3e4668ed60312880"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-food.pw.toml"
+hash = "292e9bbb9e06ae167838ae319520ec2ce408e079bb2134e00a3e9554d71ab486"
+metafile = true
+
+[[files]]
+file = "resourcepacks/low-on-fire.pw.toml"
+hash = "f5bafd1fbb787341af6c231f2a735ff3c44b3b1db076e297ecc5e323703cd7fb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mt-ct-d.pw.toml"
+hash = "1e8eaec6834651f746a8c6250e5d6bb9477583c19d454390b3451a87476cab09"
+metafile = true
+
+[[files]]
+file = "resourcepacks/os-colorful-grasses.pw.toml"
+hash = "f917f523f840a66d9cab3a98ab9dce9c17dd9e5fa7be13cccc4c2da4a020cd29"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rays-3d-ladders.pw.toml"
+hash = "3ea639ea86e1b444d00d2d2801386a206f6d7d82484b739fe0ec2d1c63e60c6a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rays-3d-rails.pw.toml"
+hash = "e807f1aad31513adbc43b774a972d298ddfaf400d8526a6f223345ec7b29ea11"
+metafile = true
+
+[[files]]
+file = "resourcepacks/simple-grass-flowers.pw.toml"
+hash = "613a9ef85fea79a7428d374d9ad1e01810ca1a692b4d49f1afd3d550dc56f6b1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/visual-armor-trims.pw.toml"
+hash = "38e011cb263d59f1d9408fb6a566554c066d54b4553f3010b5df507c932ca942"
 metafile = true

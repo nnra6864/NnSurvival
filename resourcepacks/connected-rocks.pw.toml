@@ -1,0 +1,13 @@
+name = "Connected Rocks"
+filename = "Connected-Rocks 26.2-26.3 v3.1.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IE9kFeq9/versions/punSINUc/Connected-Rocks%2026.2-26.3%20v3.1.1.zip"
+hash-format = "sha512"
+hash = "b5609122814516d4a4c2b9f0ab0416e4e40a18e80b825acd0a0cf3e6f4da48df55abf6f306527c5785e3accde2f2ed14a84e2534cb86f30c813ad810845733b0"
+
+[update]
+[update.modrinth]
+mod-id = "IE9kFeq9"
+version = "punSINUc"
