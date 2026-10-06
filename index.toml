@@ -1,6 +1,98 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "7179683e8000e6bdc9bbc60d85edf0a4ac8e76f951857f54fcb775d5886f1309"
+
+[[files]]
+file = "README.md"
+hash = "7076f58d2991069540edbdfae9aaa2ed06d5245a7b9a05491919d51f97bf5e77"
+
+[[files]]
+file = "config/DistantHorizons.toml"
+hash = "b9927233b163af71262db54db57cc98aa526c9b51d4423c54595896fe5ba2fc3"
+
+[[files]]
+file = "config/continuity.json"
+hash = "28eaff624c99a24e49882e5f56496a9e0f55e9a25e583e9313b0360494810b65"
+
+[[files]]
+file = "config/defaultoptions-common.toml"
+hash = "2970c70e010044d08127aae6a9382cfa3ad24f4b25c196a035eda34dc661ad84"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "e5f691842255b2eb65a40c49ba3b91cff439d86fd28d093b10a6fb52d9bc7698"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "6ef7f68509a3641e3c9bb6c518a25783dd2c70e65ef173c89bc11a43fa3fe59c"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "1efc57aef8d08104e82179bb72c0d5a8a197c4a9319f8152007b57100212d214"
+
+[[files]]
+file = "config/fwa.json"
+hash = "8beef4824daaa67f04fe54d795b2b0fba2833de0a17edc2600df73b670fb0b93"
+
+[[files]]
+file = "config/gnetum.json"
+hash = "806022abea8b1a7fd47adc20237140d7baa1c3068231c162851a1e6dd91c2f1d"
+
+[[files]]
+file = "config/iris.properties"
+hash = "c95f664833e48ada8261d7f86a8ecc2e757e008487fb558f19d6e0a7837ddd37"
+
+[[files]]
+file = "config/qualityofqueso/global/client.json"
+hash = "ba9c782ae0188a8f45007733366a70b9a3a18ce365efb03fcc5f70e0431fb572"
+
+[[files]]
+file = "config/qualityofqueso/global/common.json"
+hash = "ad362b710a0a3694da2895b7bfd54048cbfb213fc41540243d67b766b1cc3234"
+
+[[files]]
+file = "config/qualityofqueso/global/container_data.json"
+hash = "891bfe09a746ae55f536a5df14c9f029ac03ae0378f81d285de4cad59dfa4011"
+
+[[files]]
+file = "config/qualityofqueso/global/locked_container_slots.json"
+hash = "1824aa1c15bf586d3bfd9156cc1c8d201b302c9216ce4967eab249bfe6c6b1c3"
+
+[[files]]
+file = "config/qualityofqueso/global/locked_player_slots.json"
+hash = "7e293fa436fefdf1cef0ef40ed44af94ec2b1f38bc6996622dd46b4e75bd8f1e"
+
+[[files]]
+file = "config/qualityofqueso/global/mixins.json"
+hash = "1ec23f8c02361f08a237f912a1efe828743d2a4067bb07a5fb9364249c002f14"
+
+[[files]]
+file = "config/qualityofqueso/global/universal.json"
+hash = "2b810a77302639868b0df9b19bdd42a0708988bf6f023e04658edb52121f6643"
+
+[[files]]
+file = "config/sounds/chat.json"
+hash = "3672102374b9abfa48539a0905de5d44bd68af36484569b1ec1cabc5f0a88222"
+
+[[files]]
+file = "config/sounds/event.json"
+hash = "4ef3fe2744c42c1e34b612803af68c2043031e70e53b6da61d29047019bfc001"
+
+[[files]]
+file = "config/sounds/mod_utils.json"
+hash = "d2517d46af150921582220fa0cd2c23ceb30963a7044fe21cc7b8552c5ad83da"
+
+[[files]]
+file = "config/sounds/ui.json"
+hash = "46bac10459db136afea8188b0444e9cd4fc9682aaf49ab9fb9ecfc15b71046a8"
+
+[[files]]
+file = "config/sounds/world.json"
+hash = "e698f9f2184dad829d45013b85d821abce38a024d47822cbac5846778ca398a2"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "d948339327bc53e47c9133f0ec00db69d37a804d1bd35de20421344cdc6df94b"
 metafile = true
@@ -844,6 +936,10 @@ metafile = true
 file = "resourcepacks/visual-armor-trims.pw.toml"
 hash = "38e011cb263d59f1d9408fb6a566554c066d54b4553f3010b5df507c932ca942"
 metafile = true
+
+[[files]]
+file = "shaderpacks/Eclipse-Shader-Unstable.zip.txt"
+hash = "2c0b3d7b5a2bfec76ebf53212acc90d5d394ad7e7e46439e3cff14de10466ccc"
 
 [[files]]
 file = "shaderpacks/eclipse-shader.pw.toml"
