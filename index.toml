@@ -30,7 +30,7 @@ hash = "6ef7f68509a3641e3c9bb6c518a25783dd2c70e65ef173c89bc11a43fa3fe59c"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
-hash = "52f5d3939bd058c1af5202e4f23728ec4b895953dba3353e8ec8e6b4cbe8e1f3"
+hash = "02b718603d86a1a28c370fe42bc352d4ae9751e8722df2f217d575276671fcb7"
 
 [[files]]
 file = "config/fwa.json"
