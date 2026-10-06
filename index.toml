@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "41a6fef7736c5f13362e346f64129377609d6c909c8497c6b265d438a89aa17b"
+hash = "0699e63349603bc6747a84e35a5f7647ba6616cbb36782a8b4f94b7b6013d477"
 metafile = true
 
 [[files]]
@@ -319,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6b342a83e9736f0832e750c8d631273cf600305d73b32c8bd6a977811f6972ee"
+hash = "5650bba7cb2d17f5ac1c543ee6c0d72560624aa530e1dc51d2aa9772e96d991a"
 metafile = true
 
 [[files]]
@@ -599,7 +599,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "fab2eeffabb3466352e75004711835a34ef19688488468d18b7b2f3a3c0e67f6"
+hash = "fe3a1e2e9ac0f652a2daab5c9a4306ef49d3c28a316483f5dfb4159ca87e5a3b"
 metafile = true
 
 [[files]]
