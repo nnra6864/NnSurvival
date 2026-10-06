@@ -153,6 +153,11 @@ hash = "5ca3ce1e2faf3d9d6496638b3c863d03cfe493e8465281182fcd1f26dbc97278"
 metafile = true
 
 [[files]]
+file = "mods/beautify-refabricated.pw.toml"
+hash = "1e7943b9c0e83745b3ff3b61d99cea791f4637093b55a4766e9fbd8bd79192ab"
+metafile = true
+
+[[files]]
 file = "mods/better-block-entities.pw.toml"
 hash = "97ffadc9852dc08c2d2b3c26d9bd8befb42e4e92a02ad8c171f7b960c7eb9b4f"
 metafile = true
