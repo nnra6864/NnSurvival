@@ -1,0 +1,194 @@
+{
+  "general_options": {
+    "enable_mod": true,
+    "tooltips": "DEFAULT",
+    "theme": "TRUE_DARK"
+  },
+  "searching_options": {
+    "container_searching": true,
+    "inventory_searching": true,
+    "search_bar_position": "OVERLAY",
+    "search_bar_color": "DEFAULT",
+    "search_bar_text_color": -12566464,
+    "underline_text": false,
+    "quick_search": "ENABLED",
+    "save_search_text": false,
+    "saved_search_text": "b",
+    "saved_item_frame_search_text": "",
+    "saved_creative_menu_text": ""
+  },
+  "management_options": {
+    "layout": "HORIZONTAL",
+    "play_sounds": true,
+    "transferring": "BUTTON_OR_KEY",
+    "quick_drop": "KEY_ONLY",
+    "container_filtering": true,
+    "lock_inventory": "UNLOCKED",
+    "quick_equip": true,
+    "scroll_moving": true,
+    "ctrl_moving": true,
+    "highlight_matching_items": "ON_CTRL",
+    "matching_items_color": 1882627894,
+    "drag_moving": true,
+    "bulk_trade": false,
+    "bulk_craft": false,
+    "swapping": "OFF",
+    "drag_sorting": true,
+    "horizontal_button_layout": [
+      "Transfer Container Button",
+      "Transfer Inventory Button",
+      "Lock Inventory Button",
+      "Include Hotbar Button",
+      "Always Quick Move Button",
+      "Filtering Button",
+      "Sort Button",
+      "Bulk Craft Button",
+      "Quick Drop Button",
+      "Swap Button",
+      "Search Transportables Button",
+      "Clear Excluded Slots Button"
+    ],
+    "vertical_button_layout": [
+      "Transfer Inventory Button",
+      "Transfer Container Button",
+      "Sort Button",
+      "Include Hotbar Button",
+      "Lock Inventory Button",
+      "Always Quick Move Button",
+      "Bulk Craft Button",
+      "Filtering Button",
+      "Quick Drop Button",
+      "Swap Button",
+      "Search Transportables Button",
+      "Clear Excluded Slots Button"
+    ],
+    "including_hotbar": true,
+    "filtering_mode": "NONE",
+    "always_quick_move": false
+  },
+  "sorting_options": {
+    "sorting": "BUTTON_OR_KEY",
+    "current_sorting_mode": "ALPHABETICAL",
+    "default_sorting_mode": "ALPHABETICALLY",
+    "use_global_sorting_mode": false,
+    "global_sorting_mode": "ALPHABETICALLY"
+  },
+  "locked_slot_options": {
+    "locked_slots": true,
+    "show_lock": "SCREEN_ONLY",
+    "lock_sound": true,
+    "locked_slot_color": 1721803007,
+    "prevent_dropping": true,
+    "hard_lock_slots": false
+  },
+  "button_display_options": {
+    "display_search_transportables": true,
+    "display_lock_inventory": true,
+    "display_bulk_craft": true,
+    "display_bulk_trade": true,
+    "safe_bulk": true,
+    "display_always_quick_move": false,
+    "display_include_hotbar": "ALWAYS",
+    "display_filtering": "ALWAYS"
+  },
+  "hud_options": {
+    "armor_status": "ALWAYS",
+    "armor_hotbar": true,
+    "empty_slots": true,
+    "highlight_armor": true,
+    "animations": true,
+    "animation_time": 1.5,
+    "colored_highlighting": true,
+    "warning_indicators": true,
+    "display_time": 4.0,
+    "armor_status_position": [
+      0,
+      0
+    ],
+    "other_elements_y": 0
+  },
+  "item_counter_options": {
+    "item_counter": "STACKS",
+    "count_containers": true,
+    "count_ender_chest": false,
+    "only_count_matching_items": false,
+    "arrow_counter": true,
+    "count_all_arrows": true,
+    "only_show_arrow_counter": false,
+    "always_show_arrow_counter": false,
+    "display_on_throw": true,
+    "display_on_pickup": true,
+    "display_total_with_stacks": false,
+    "item_counter_position": [
+      0,
+      0
+    ],
+    "move_item_counter_over": true
+  },
+  "elytra_alarm_options": {
+    "elytra_alarm": "ENABLED",
+    "min_elytra_alarm_fall_distance": 20,
+    "elytra_alarm_sound_delay_ticks": 1,
+    "elytra_alarm_blacklisted_items": [
+      "minecraft:mace",
+      "minecraft:wind_charge",
+      "minecraft:ender_pearl",
+      "minecraft:water_bucket",
+      "minecraft:powder_snow_bucket"
+    ]
+  },
+  "miscellaneous_options": {
+    "mob_hit_ding": true,
+    "min_mob_hit_ding_distance": 15,
+    "armor_ding": true,
+    "no_recipe_book_shift": false,
+    "auto_close_recipe_book": true,
+    "anti_rage_quit": false,
+    "force_anti_rage_quit": false,
+    "red_armor_tint": false,
+    "enchantment_helper": true,
+    "enhanced_cursor": true,
+    "quick_gui_exit": true,
+    "item_frame_search_glow_duration": 0,
+    "item_frame_search_radius": 150
+  },
+  "visual_time_options": {
+    "override_client_time": false,
+    "display_visual_clock": true,
+    "visual_clock_position": [
+      0,
+      0
+    ],
+    "visual_time": 0,
+    "visual_time_speed": 0,
+    "sync_local_time": false
+  },
+  "fog_options": {
+    "all_fog": true,
+    "overworld_fog": true,
+    "nether_fog": true,
+    "overworld_fog_intensity": 100,
+    "nether_fog_intensity": 100
+  },
+  "for_effects": {
+    "lock_fov": false,
+    "sprinting": 100,
+    "flying": true,
+    "fluids": true,
+    "potions": "ENABLED",
+    "bows": "ENABLED"
+  },
+  "accessibility_options": {
+    "use_legacy_textures": false,
+    "perpendicular_quick_moving": false,
+    "prevent_e_from_typing": true,
+    "search_inventory": true,
+    "operator_items_tab": true,
+    "beta_warning": true,
+    "server_warnings": true,
+    "ignore_fabric_tags": false,
+    "darker_overlay": false,
+    "dark_disc": true,
+    "e_chest_button": "QOQ_MENU"
+  }
+}

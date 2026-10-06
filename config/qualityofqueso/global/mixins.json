@@ -1,0 +1,9 @@
+{
+  "title_screen_mixin": true,
+  "pause_screen_mixin": true,
+  "fog_mixins": true,
+  "fov_effects_mixin": true,
+  "red_armor_tint_mixin": true,
+  "clock_manager_mixin": true,
+  "item_argument_mixin": true
+}
