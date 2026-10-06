@@ -967,13 +967,13 @@ hash = "38e011cb263d59f1d9408fb6a566554c066d54b4553f3010b5df507c932ca942"
 metafile = true
 
 [[files]]
-file = "shaderpacks/Eclipse-Shader-Unstable.zip.txt"
-hash = "2c0b3d7b5a2bfec76ebf53212acc90d5d394ad7e7e46439e3cff14de10466ccc"
+file = "shaderpacks/Eclipse-Shader-Unstable.zip.pw.toml"
+hash = "1a6a123ba8905df8b2a6860e446ac0613797fe60adf1779d4ac2e7ad19578e61"
+metafile = true
 
 [[files]]
-file = "shaderpacks/eclipse-shader.pw.toml"
-hash = "a6fd6ebe6e6b0ccdaa60f352621f89cf07a95fd505122be8903f456b5d59d063"
-metafile = true
+file = "shaderpacks/Eclipse-Shader-Unstable.zip.txt"
+hash = "2c0b3d7b5a2bfec76ebf53212acc90d5d394ad7e7e46439e3cff14de10466ccc"
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
