@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "aad07f6496bbf478116eaa0e82fa7fbdd022ca755b392029193e1090d76716b3"
+hash = "28d56c0625696a88baa7b7a1b86d1d6965e078ba1f7f7c2fd523aa69a98ed08b"
 metafile = true
 
 [[files]]
@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "47ac04f56026cd96bd9192b7b69d6c9311ba40df950fa44e8c68bc37d46bb9f4"
+hash = "7ee26a648ade185e8fc43d8aa413eb6da64a830847273cc83c5608f22e18d5ea"
 metafile = true
 
 [[files]]
@@ -389,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-extension.pw.toml"
-hash = "50ee729ae4feabd71b014ad3949f680d84048a488324711d985e32bbaffa6eeb"
+hash = "109f2194eaa964d761d51a5695a72bcf40117404c4cc69ba7a8666af928900f0"
 metafile = true
 
 [[files]]
