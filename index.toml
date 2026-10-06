@@ -945,3 +945,8 @@ hash = "2c0b3d7b5a2bfec76ebf53212acc90d5d394ad7e7e46439e3cff14de10466ccc"
 file = "shaderpacks/eclipse-shader.pw.toml"
 hash = "cf4158de85ab9a8146fa9d651608aa322977196f382f44acf27938c11be553ca"
 metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "9b6b8d8ae8b1e8fc0d79af52521fa0b6ae41167a456f7dd60e49ec710aab7d42"
+metafile = true
