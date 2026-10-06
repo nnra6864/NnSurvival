@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/banhammer.pw.toml"
-hash = "5ca3ce1e2faf3d9d6496638b3c863d03cfe493e8465281182fcd1f26dbc97278"
+hash = "65cb072da8ba7bdae1212e6a19e976ccd0eea27ef0e5cf8b693a29262454cbc3"
 metafile = true
 
 [[files]]
@@ -673,7 +673,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-replay.pw.toml"
-hash = "5b772897595a7386cdd812377a99d6263416c44e72e5ca78ef290719b41a3073"
+hash = "6362855d60064ca99119d0bfe4db14f8cfe190e490a04246fe978377e6a39125"
 metafile = true
 
 [[files]]
