@@ -10,7 +10,7 @@ hash = "7076f58d2991069540edbdfae9aaa2ed06d5245a7b9a05491919d51f97bf5e77"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "b9927233b163af71262db54db57cc98aa526c9b51d4423c54595896fe5ba2fc3"
+hash = "3e4a13ebf02e56a7845dab3f19155c751c0fbe6caa27e26b9ad1bac037058f0f"
 
 [[files]]
 file = "config/continuity.json"
