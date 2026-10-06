@@ -73,6 +73,10 @@ file = "config/qualityofqueso/global/universal.json"
 hash = "2b810a77302639868b0df9b19bdd42a0708988bf6f023e04658edb52121f6643"
 
 [[files]]
+file = "config/server-replay/config.json"
+hash = "10315597451aa00cb9983f742fa57e5f22c40c0a7183fe2273c3431989dfcf74"
+
+[[files]]
 file = "config/sounds/chat.json"
 hash = "3672102374b9abfa48539a0905de5d44bd68af36484569b1ec1cabc5f0a88222"
 
@@ -660,6 +664,11 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "8ab8d9da45456dfc8146a7d4b4b4243c69ba5b4375d086f361bf23df6e14988a"
+metafile = true
+
+[[files]]
+file = "mods/server-replay.pw.toml"
+hash = "5b772897595a7386cdd812377a99d6263416c44e72e5ca78ef290719b41a3073"
 metafile = true
 
 [[files]]
