@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/gnetum.pw.toml"
-hash = "b77b17f2ac8b7899e28ae7e6d728550a1d194dbf0dd8ae119247f3e38863e4e4"
+hash = "d0dd6962f8570ddb666d3952e6227312ac5cb881091cf9e9f5eb0bfd1271b185"
 metafile = true
 
 [[files]]
@@ -843,4 +843,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/visual-armor-trims.pw.toml"
 hash = "38e011cb263d59f1d9408fb6a566554c066d54b4553f3010b5df507c932ca942"
+metafile = true
+
+[[files]]
+file = "shaderpacks/eclipse-shader.pw.toml"
+hash = "6eafd13bb27e2d14190943f6a627ab95f431fffe150daeed851cec85a284dd9c"
 metafile = true
