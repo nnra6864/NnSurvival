@@ -943,5 +943,5 @@ hash = "2c0b3d7b5a2bfec76ebf53212acc90d5d394ad7e7e46439e3cff14de10466ccc"
 
 [[files]]
 file = "shaderpacks/eclipse-shader.pw.toml"
-hash = "6eafd13bb27e2d14190943f6a627ab95f431fffe150daeed851cec85a284dd9c"
+hash = "cf4158de85ab9a8146fa9d651608aa322977196f382f44acf27938c11be553ca"
 metafile = true
