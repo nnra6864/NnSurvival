@@ -3,11 +3,11 @@ filename = "Fresh Food.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/UoLAbzII/versions/DdBV0zoy/Fresh%20Food.zip"
+url = "https://cdn.modrinth.com/data/UoLAbzII/versions/zgUA58EZ/Fresh%20Food.zip"
 hash-format = "sha512"
-hash = "e50de601c98903009f520c7e935d9ec0197fbbe86cd186659720dfda02f70ba2ba6f4d6149164384638a5c4776a3f634ab2782734339c905fc443ab436bb7d0e"
+hash = "a0e151d95dc6eaa7a4b2f22d31201b83177a171443a7057c23099356d77577f5f0f8b44f59ffd833553b511679801c7a256c3a9f2613a1e1aacb895c245d14ed"
 
 [update]
 [update.modrinth]
 mod-id = "UoLAbzII"
-version = "DdBV0zoy"
+version = "zgUA58EZ"

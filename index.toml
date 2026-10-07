@@ -133,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "4a2cdfe2f44d396299d663dee37c44726ba75554e9a5272a4ba8f21e0e776934"
+hash = "cc3376222e041b85175308dd59c1dccb174c5f35ee13cc363dc5d3b995651e32"
 metafile = true
 
 [[files]]
@@ -183,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "037a156dff9609bea2f09ff635fccb34df6814ca0383a506dfcaaa39622e27d9"
+hash = "f4e4462219c63a8e43019670f21d3c52a5294ca4c70c55182ba6df02a803eecb"
 metafile = true
 
 [[files]]
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/connected-glass.pw.toml"
-hash = "d548e12d5591cb4595a543ae4a70fcc89010aec8c54fbb7e4073e01e2fedaa7d"
+hash = "fc65fb26a73dc25a9782d3185031f3366951af800fb89ae4f4213890c15b54c4"
 metafile = true
 
 [[files]]
@@ -283,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/dillon-lib.pw.toml"
-hash = "742be5ad1c0ecc19d118613d1352986d71a2211331270ff0d4563703c9197bb6"
+hash = "97aac24c7ce755a9a19ecb0b20600d467fe39745955f2f899cede04acbba8b9b"
 metafile = true
 
 [[files]]
@@ -608,7 +608,7 @@ metafile = true
 
 [[files]]
 file = "mods/player-animation-library.pw.toml"
-hash = "8c7bca093a9147d6990733b92ddd15ee0342ab187120377ddf5f94fe0981d831"
+hash = "5f500b882196aa8eae0d0dff4299b2fff908a8e61c7b6aab0d840a2824b3bc5f"
 metafile = true
 
 [[files]]
@@ -623,7 +623,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "fe3a1e2e9ac0f652a2daab5c9a4306ef49d3c28a316483f5dfb4159ca87e5a3b"
+hash = "eb459a3c2232833795ca6430e289e647a4078267cb9f5b1fc103fccf4d070d46"
 metafile = true
 
 [[files]]
@@ -633,7 +633,7 @@ metafile = true
 
 [[files]]
 file = "mods/quality-of-queso.pw.toml"
-hash = "3a1341848d7531488563dc943b2546090e77e1f1d3d48e8dc9320a1257b6f51d"
+hash = "dcf4b889c442a17a830435cd1e2af617e47adaedca4063130b3ce969508f101e"
 metafile = true
 
 [[files]]
@@ -643,7 +643,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "f40d9cc3b7686115bd990489e9a428ee85b9e5c6392e810a76d5fe9394359e30"
+hash = "95a2d06dfd1517fb4fb88971c2878809544d646551dbc107357f0b00c9c7e28c"
 metafile = true
 
 [[files]]
@@ -653,7 +653,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "4d42bccd20e3c2ad79d9b627921b141f7155a3ea972a05e9a139d95cb7957c2d"
+hash = "d020948abe913e80ffc7b798d65a48b79b4c788b7df3f5af27f4df57596466f5"
 metafile = true
 
 [[files]]
@@ -763,12 +763,12 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "b200d8b80d17db71670ddf97bae5d3097f9e6c1d67f129ea0b4a398377b9e8a9"
+hash = "a5ca911605f7d3e75c5ba7b4d48ae3a3e1f244c972222700984b9cad082921d6"
 metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "bfade41c8d9d9a102dec9ef0dff8ef853a5eaf8e5851bd5343f3f79905cbf764"
+hash = "b95795bc5204e74a8c355949a302976bc7c1786cc2dfb1a6bf76c047be8860a6"
 metafile = true
 
 [[files]]
@@ -928,7 +928,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-food.pw.toml"
-hash = "292e9bbb9e06ae167838ae319520ec2ce408e079bb2134e00a3e9554d71ab486"
+hash = "994220e42be5e64f925c753c660ce9c7cbaf1d6059428fd7f664ce8feca659c5"
 metafile = true
 
 [[files]]
