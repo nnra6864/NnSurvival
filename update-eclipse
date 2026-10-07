@@ -1,0 +1,25 @@
+#!/usr/bin/env sh
+
+set -e
+
+BRANCH="NnSurvival"
+URL="https://git.nnstdios.com/nnra6864/Eclipse-Shader/archive/$BRANCH.zip"
+TARGET_NAME="Eclipse-Shader-Unstable.zip"
+META_FILE="shaders/${TARGET_NAME}.pw.toml"
+
+echo "Adding URL to packwiz..."
+packwiz url add "Eclipse-Shader" "$URL" --meta-folder shaders --meta-name "$TARGET_NAME"
+
+if [ -f "$META_FILE" ]; then
+    echo "Updating filename in $META_FILE..."
+
+    sed "s/filename = \"$BRANCH.zip\"/filename = \"$TARGET_NAME\"/g" "$META_FILE" > "${META_FILE}.tmp"
+    mv "${META_FILE}.tmp" "$META_FILE"
+
+    echo "Refreshing packwiz index..."
+    packwiz refresh
+    echo "Successfully updated Eclipse-Shader."
+else
+    echo "Error: Expected metadata file '$META_FILE' was not found." >&2
+    exit 1
+fi
