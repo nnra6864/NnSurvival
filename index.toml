@@ -979,3 +979,12 @@ hash = "2c0b3d7b5a2bfec76ebf53212acc90d5d394ad7e7e46439e3cff14de10466ccc"
 file = "shaderpacks/solas-shader.pw.toml"
 hash = "9b6b8d8ae8b1e8fc0d79af52521fa0b6ae41167a456f7dd60e49ec710aab7d42"
 metafile = true
+
+[[files]]
+file = "shaders/Eclipse-Shader-Unstable.zip.pw.toml"
+hash = "02176444632074f2fab60e0e79e874490f3302a0fe80da541621be519520ca03"
+metafile = true
+
+[[files]]
+file = "update-eclipse"
+hash = "2bf47a6d752ccdcc550f72fbbff85e676ca244766696a9bb345070a541c64f15"
