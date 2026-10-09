@@ -1,8 +1,0 @@
-name = "Eclipse-Shader"
-filename = "Eclipse-Shader-Unstable.zip"
-side = "both"
-
-[download]
-url = "https://git.nnstdios.com/nnra6864/Eclipse-Shader/archive/NnSurvival.zip"
-hash-format = "sha256"
-hash = "521a7bd34a386fd70123a6e305f10abc1c9710e883d941f65c260dad9200a5a0"

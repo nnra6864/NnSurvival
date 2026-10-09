@@ -5,10 +5,10 @@ set -e
 BRANCH="NnSurvival"
 URL="https://git.nnstdios.com/nnra6864/Eclipse-Shader/archive/$BRANCH.zip"
 TARGET_NAME="Eclipse-Shader-Unstable.zip"
-META_FILE="shaders/${TARGET_NAME}.pw.toml"
+META_FILE="shaderpacks/${TARGET_NAME}.pw.toml"
 
 echo "Adding URL to packwiz..."
-packwiz url add "Eclipse-Shader" "$URL" --meta-folder shaders --meta-name "$TARGET_NAME"
+packwiz url add "Eclipse-Shader" "$URL" --meta-folder shaderpacks --meta-name "$TARGET_NAME"
 
 if [ -f "$META_FILE" ]; then
     echo "Updating filename in $META_FILE..."

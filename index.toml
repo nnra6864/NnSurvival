@@ -968,7 +968,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/Eclipse-Shader-Unstable.zip.pw.toml"
-hash = "8d54f03d09a047e06087cabc3d726ccdaa5b8510092a3c97069add19ab5d850d"
+hash = "02176444632074f2fab60e0e79e874490f3302a0fe80da541621be519520ca03"
 metafile = true
 
 [[files]]
@@ -981,10 +981,5 @@ hash = "9b6b8d8ae8b1e8fc0d79af52521fa0b6ae41167a456f7dd60e49ec710aab7d42"
 metafile = true
 
 [[files]]
-file = "shaders/Eclipse-Shader-Unstable.zip.pw.toml"
-hash = "02176444632074f2fab60e0e79e874490f3302a0fe80da541621be519520ca03"
-metafile = true
-
-[[files]]
 file = "update-eclipse"
-hash = "2bf47a6d752ccdcc550f72fbbff85e676ca244766696a9bb345070a541c64f15"
+hash = "a22d916c030ba4dc10b5916cab041f85e0b57b6ecce6d45db6a7471eb2a1ffa0"
