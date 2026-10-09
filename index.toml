@@ -167,6 +167,11 @@ hash = "97ffadc9852dc08c2d2b3c26d9bd8befb42e4e92a02ad8c171f7b960c7eb9b4f"
 metafile = true
 
 [[files]]
+file = "mods/better-stats.pw.toml"
+hash = "d5f535c245e7a0251147bcf7d8c04d63ba635a1398492ff25702417cc01533d5"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "d3c07272ae992b894ee2deb23e68d46f21048e670c664898bac9522da5bdd5ab"
 metafile = true
@@ -779,6 +784,11 @@ metafile = true
 [[files]]
 file = "mods/tabtps.pw.toml"
 hash = "0c3a2d8df20933893c8a62ccf54ff28f2863c241e74f75679a4cfad12190b337"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "de9c538b32731540abd202766ee93f2ac082563b8663ac485e5cb50ac87d147c"
 metafile = true
 
 [[files]]
