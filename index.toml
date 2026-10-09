@@ -108,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "73710c6139537669f2dc6cb61a99b4df3dd929e75a270d7f563cdbcf145005f8"
+hash = "b3a3d61a442a41a1b4cabe37ca0c9807cce65d90fbc0432d8e33b0243025f23c"
 metafile = true
 
 [[files]]
@@ -313,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "4a2061e66de340e42c321452326670ff7164b34d76656ffe686ef14c026ccf15"
+hash = "29f920b8bdac98a1a1d9e6454d0c3b4d0eb1f3779f2fea7b7df177b2163e5d61"
 metafile = true
 
 [[files]]
@@ -443,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "10124b38a3c6319e479b6d47a507dbd60d3529b655a5221f52b9872c9a42018e"
+hash = "a66afdb76262ba97227b068657a34f5af76fe1625c6872b4945dca562441124f"
 metafile = true
 
 [[files]]
@@ -623,7 +623,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "eb459a3c2232833795ca6430e289e647a4078267cb9f5b1fc103fccf4d070d46"
+hash = "065c1e4df94dcfe4fc533df9daa1701ce89cdb88809cdde690e128baa1abd401"
 metafile = true
 
 [[files]]
@@ -763,7 +763,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "a5ca911605f7d3e75c5ba7b4d48ae3a3e1f244c972222700984b9cad082921d6"
+hash = "bfa12d1206cf8324c7cc868ce83d069478c5a6b5ba62cee9b34ee8eafbe022e9"
 metafile = true
 
 [[files]]
@@ -848,7 +848,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "2eab932dd5793bbbba9959eb0924d386e0705e96d58b8f6249cd75804c713c18"
+hash = "7ac50a41949c05df550b62d54051bc171491644eef010aa19bd8abe3419909b1"
 metafile = true
 
 [[files]]
