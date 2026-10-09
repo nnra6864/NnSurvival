@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "0699e63349603bc6747a84e35a5f7647ba6616cbb36782a8b4f94b7b6013d477"
+hash = "8f4143430d51d6010a5e295d8ab5b407d19f121cfffbf617d1692726ab1e205b"
 metafile = true
 
 [[files]]
@@ -338,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "7a7f5673b6e33eebaed00c0c453fc41d11c7474eb320c3ce8736d415fcfe2682"
+hash = "1811d49906aa7a1e7f1230535c6fec91be45129d028f7900cf35571a497e42b3"
 metafile = true
 
 [[files]]
@@ -708,7 +708,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-scroll.pw.toml"
-hash = "d885ad9f9ef5f122195e1724c0154fe591c5426c821d94ba82da38b29e8ef30a"
+hash = "55af76c886a3722340634451f253b1046a727104694976ca487c802071c30ed5"
 metafile = true
 
 [[files]]
