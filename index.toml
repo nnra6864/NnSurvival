@@ -852,6 +852,11 @@ hash = "7b82bfcde20d2ac0fb158c003caf5288523272ca462f519864ee424912e4e4dd"
 metafile = true
 
 [[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "aea3ac2ecc9057bbbf9072733cc1fdbc138b621a299ca4975a88939d1b8f1af6"
+metafile = true
+
+[[files]]
 file = "mods/zconfig.pw.toml"
 hash = "8078347c8e2fd79bbb3e414fd36bc319e2d043f8d3b955c14f430fee0b5d6843"
 metafile = true
