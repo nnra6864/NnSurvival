@@ -817,6 +817,11 @@ hash = "709f656750437b2a24fbe6691c78058fe7827347d4b6326da3448c6f1cfc1c94"
 metafile = true
 
 [[files]]
+file = "mods/villages-and-pillages.pw.toml"
+hash = "da39486b7a4c74ce173555e967897a00770fb5622ea78bbc12b25a1691712fcf"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "654073f6a13203019cd895e3a4d2d531efc1c40f1f1c385b082473584ff0af48"
 metafile = true
