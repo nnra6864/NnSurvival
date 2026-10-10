@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "ce338150961c9fcfcafda32329c104fa4b400e1688c7a3ce1acb27e8bc21bfaa"
+hash = "d027a4fc9297c0263e3553b5dbf0ad597fe30d6e81f2a0cd11662c04844bdd21"
 metafile = true
 
 [[files]]
@@ -403,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-particles.pw.toml"
-hash = "b0b0d3bf2d3f258f982930d63a9c313b264924dd82f404ffc70342a54fe49af1"
+hash = "4b2cd574e65c803b00eacf76fba5461a7b1286506f938530541c3dfbc9144251"
 metafile = true
 
 [[files]]
@@ -623,7 +623,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph_plus.pw.toml"
-hash = "e8df822970590e59a6d43e82e0ae6893538686d73ed962e22a67ab94512e1fa4"
+hash = "7d9f88675845de00ba8d68e9ca4d27b271bc30fb0edb6e5634f14ffd65fe5ec7"
 metafile = true
 
 [[files]]
