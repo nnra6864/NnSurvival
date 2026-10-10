@@ -29,7 +29,7 @@
   "record_voice_chat": true,
   "replay_server_ip": null,
   "allow_downloading_replays": false,
-  "automatically_record": true,
+  "automatically_record": false,
   "player_predicate": {
     "type": "all"
   },

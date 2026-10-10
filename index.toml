@@ -74,7 +74,7 @@ hash = "2b810a77302639868b0df9b19bdd42a0708988bf6f023e04658edb52121f6643"
 
 [[files]]
 file = "config/server-replay/config.json"
-hash = "10315597451aa00cb9983f742fa57e5f22c40c0a7183fe2273c3431989dfcf74"
+hash = "edfca2ebeeb10154cd3cad3adb29b3a294031159fff367e8cb073b0a1397995a"
 
 [[files]]
 file = "config/sounds/chat.json"
