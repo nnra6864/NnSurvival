@@ -772,11 +772,6 @@ hash = "44905c34030688d3054a99f2fc07253c41332b3ead73fb0120d6936c3b050489"
 metafile = true
 
 [[files]]
-file = "mods/subtle-effects.pw.toml"
-hash = "bfa12d1206cf8324c7cc868ce83d069478c5a6b5ba62cee9b34ee8eafbe022e9"
-metafile = true
-
-[[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "b95795bc5204e74a8c355949a302976bc7c1786cc2dfb1a6bf76c047be8860a6"
 metafile = true
