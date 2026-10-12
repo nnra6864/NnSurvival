@@ -1,13 +1,13 @@
 name = "TCDCommons API"
-filename = "tcdcommons-5.6.0-beta.2+fn-26.3.jar"
+filename = "tcdcommons-5.6.0+fn-26.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Eldc1g37/versions/FwE7UAgA/tcdcommons-5.6.0-beta.2%2Bfn-26.3.jar"
+url = "https://cdn.modrinth.com/data/Eldc1g37/versions/e8CTufLc/tcdcommons-5.6.0%2Bfn-26.3.jar"
 hash-format = "sha512"
-hash = "39adb15641f7ac8e6d54bcb2c1ee135e403266f3942f51d030949b612f1f6c5a56052d30f9c30ae33c091471fe4c94d7ae8d8613d61a986417259a9a5029854d"
+hash = "ca9982e03ef711177333d218dafeee72908edd10449b16fa7e83df2a9ffcd1e3bf9947f5920ad6d10105d2e022681634399d3b8a946081838a799865f91ee59c"
 
 [update]
 [update.modrinth]
 mod-id = "Eldc1g37"
-version = "FwE7UAgA"
+version = "e8CTufLc"

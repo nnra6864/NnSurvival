@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/baguettelib.pw.toml"
-hash = "be0162709499b5c1fa6dea5f17129bc258fafdb71507bac5628ef81ca85a4307"
+hash = "ab29e217ad18a1d51d58898ed8c8a915097c4a411dd19c58d11c0214b008dc1f"
 metafile = true
 
 [[files]]
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "d5f535c245e7a0251147bcf7d8c04d63ba635a1398492ff25702417cc01533d5"
+hash = "4094d2bccd278381f80de9eacd30dd8fa9242768d75626b4aba36fb010105f2d"
 metafile = true
 
 [[files]]
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "d027a4fc9297c0263e3553b5dbf0ad597fe30d6e81f2a0cd11662c04844bdd21"
+hash = "fefdb57eeb920924175a3212402ca5eefb47604cdb2a8d562f015ec3e6d4383d"
 metafile = true
 
 [[files]]
@@ -383,7 +383,7 @@ metafile = true
 
 [[files]]
 file = "mods/fwa.pw.toml"
-hash = "1681ac0c55fd320610ad417d62f3191b44bca455f906b9914852c15a5b2d0e57"
+hash = "e252308e6288f7a109701d518347849a801162e93d4fb8726417aaafbdfcf68f"
 metafile = true
 
 [[files]]
@@ -623,7 +623,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph_plus.pw.toml"
-hash = "7d9f88675845de00ba8d68e9ca4d27b271bc30fb0edb6e5634f14ffd65fe5ec7"
+hash = "4dce3a29cc081294b154e62b0fe0a72f794390abe64fc712907918784d2534ee"
 metafile = true
 
 [[files]]
@@ -633,7 +633,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "065c1e4df94dcfe4fc533df9daa1701ce89cdb88809cdde690e128baa1abd401"
+hash = "79f8a0c041d07260a01a65a0e3810babcf1d859a8d7593545dde90bcf39dc20f"
 metafile = true
 
 [[files]]
@@ -658,7 +658,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "71f683b704785b7908e1882ea4063a30bce373514a5eda82be00ec647029443d"
+hash = "003fbaec9c73dd1805d7be7008ffaef13985621dba4ebac4b4ff6d1fc7757d55"
 metafile = true
 
 [[files]]
@@ -688,7 +688,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-replay.pw.toml"
-hash = "6362855d60064ca99119d0bfe4db14f8cfe190e490a04246fe978377e6a39125"
+hash = "24c57ba71ee0a961fd4ddfcd7f47aa329cd7bfd3241d30c0dbd76f6bb935bc0b"
 metafile = true
 
 [[files]]
@@ -788,7 +788,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "de9c538b32731540abd202766ee93f2ac082563b8663ac485e5cb50ac87d147c"
+hash = "f0198cfd78c009eba2699c408dd50c716011d7f149c45f70ca21056066f4655d"
 metafile = true
 
 [[files]]

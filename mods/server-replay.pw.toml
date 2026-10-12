@@ -1,13 +1,13 @@
 name = "ServerReplay"
-filename = "ServerReplay-3.6.0-beta.2+26.3.jar"
+filename = "ServerReplay-3.6.0-beta.5+26.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qCvSZ8ra/versions/TGUAJcTJ/ServerReplay-3.6.0-beta.2%2B26.3.jar"
+url = "https://cdn.modrinth.com/data/qCvSZ8ra/versions/rCmC09FF/ServerReplay-3.6.0-beta.5%2B26.3.jar"
 hash-format = "sha512"
-hash = "1d2a7c1864cf6fcf044748dce513735a5d32f426d5af054df2d0147b975a4e88497e091393c62ed736134a300d9563972a10d5f94517c5da0526e258b33a3620"
+hash = "fe857584ff5795dd088b7acae8e8c934e85695df53a095dc8029be18f87b1fec005b5bdd532c2ae20b0be51b9cba2d06bf2e5b14abe58a364d5b7118bfdd8c98"
 
 [update]
 [update.modrinth]
 mod-id = "qCvSZ8ra"
-version = "TGUAJcTJ"
+version = "rCmC09FF"
