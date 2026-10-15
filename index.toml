@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/asynclogger.pw.toml"
-hash = "2ec945ad867c230ff2cb299d2e9d566dcb2ee59107a4491e2f37951103dd3e62"
+hash = "2566ab3c597dc77177246c39b14677c9746e093fd52873c94c986c4acbce91fc"
 metafile = true
 
 [[files]]
@@ -188,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "f4e4462219c63a8e43019670f21d3c52a5294ca4c70c55182ba6df02a803eecb"
+hash = "de10bdef8fb648f67d5872522993e60902c3d87c6a45102466f2d2c7710e5ccc"
 metafile = true
 
 [[files]]
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "fefdb57eeb920924175a3212402ca5eefb47604cdb2a8d562f015ec3e6d4383d"
+hash = "7e3d364a831d96c8aa2bc6d385812308a38d6561ebff6dd13781400be4e3ce40"
 metafile = true
 
 [[files]]
@@ -313,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "eb9fd7324d0bc7717b3f128aea47edae105c4800ab55590f1ba6cc1448d6bb7a"
+hash = "d00381d69d0dba1911229acbc2f89887026d72cc0270a27c94c1e7d06a61fd19"
 metafile = true
 
 [[files]]
@@ -323,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "174132163654f70d74e319cabd754b78abae9b690c9017642e7a22a51ffbb43c"
+hash = "bdabe52b4c88b2f57ab21c130c3d00a1ebae771085d31b44674d13c35135feff"
 metafile = true
 
 [[files]]
@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5650bba7cb2d17f5ac1c543ee6c0d72560624aa530e1dc51d2aa9772e96d991a"
+hash = "249b9a3bfcb8a23719e656abb121094e63c6d88eeab08f2fbd8ae569948d5303"
 metafile = true
 
 [[files]]
@@ -448,7 +448,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "a66afdb76262ba97227b068657a34f5af76fe1625c6872b4945dca562441124f"
+hash = "ccee57f34e035e85ebb41db22ba255b61aa885f69bd8ef2f7b818be7fa546750"
 metafile = true
 
 [[files]]
@@ -518,7 +518,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "a63b82ca2683ca3d274c3876f0871aadb9f3651b526471f7b24b0481483198a0"
+hash = "f364f593df41130f37f525028432f9a3e1501e5781605482a1f28631cf807284"
 metafile = true
 
 [[files]]
@@ -583,7 +583,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
-hash = "31115461ebf1a9ce47d04e8f48f5116170547249238b226b00511190b8d19053"
+hash = "d2dddee2f3bfc072fa85723c7002ee7765943ccbbc2a5b5b6de776a312c763cd"
 metafile = true
 
 [[files]]
@@ -618,7 +618,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph_plus.pw.toml"
-hash = "4dce3a29cc081294b154e62b0fe0a72f794390abe64fc712907918784d2534ee"
+hash = "fa1aa97fd5abee85c32e4a743a5c29f8caabb0b0bd414032f81b1a1508e166a5"
 metafile = true
 
 [[files]]
@@ -628,7 +628,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "79f8a0c041d07260a01a65a0e3810babcf1d859a8d7593545dde90bcf39dc20f"
+hash = "1468fe3ca18b35fc53563de46046b3ada11913f1ca2a74b057437474128df85a"
 metafile = true
 
 [[files]]
@@ -643,7 +643,7 @@ metafile = true
 
 [[files]]
 file = "mods/railoptimization.pw.toml"
-hash = "6554edde2e1c1c8855a39c51309993b3a3e30166cd40f5d54ce82ba02692d806"
+hash = "78418e45e60aa81121a44ed7ea21e5227212177a5643343ee20c7e00deb6fe16"
 metafile = true
 
 [[files]]
@@ -997,7 +997,7 @@ hash = "3a0355e2ebec35dddc2d342a6de13aa0f857bc0ef3adfab8e32b2c04121c32ac"
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "9b6b8d8ae8b1e8fc0d79af52521fa0b6ae41167a456f7dd60e49ec710aab7d42"
+hash = "f8be2023c5a1d6446cca4be7d659ec4b3ca2dcd8a3b97b1593c3c22328d5fd5b"
 metafile = true
 
 [[files]]
