@@ -97,6 +97,10 @@ file = "config/sounds/world.json"
 hash = "e698f9f2184dad829d45013b85d821abce38a024d47822cbac5846778ca398a2"
 
 [[files]]
+file = "config/waystones-common.toml"
+hash = "49a69e39c5488d82726ac7eb151d4c7286a492b4e893d22086a234bdb22dad53"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "d948339327bc53e47c9133f0ec00db69d37a804d1bd35de20421344cdc6df94b"
 metafile = true
