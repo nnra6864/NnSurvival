@@ -261,11 +261,6 @@ hash = "a5b7657ae026fcdbd70daeeea8cd8ca04781ff3b385be975764e1999042e54fe"
 metafile = true
 
 [[files]]
-file = "mods/danlib.pw.toml"
-hash = "87a0c304e981af31c2dc77a94837a4533f79dc61f7d98336f0bf5f75168983b9"
-metafile = true
-
-[[files]]
 file = "mods/decorative-blocks-reborn.pw.toml"
 hash = "65ce5770f9b01ea8d337ffec8dcf95c46331fe505bc1df3c4dc68000fbc3d2d3"
 metafile = true
@@ -843,11 +838,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "85e00f97c2d58db3167bb6608558aa956654f5b0570e0abac082a1d0d4e3c19d"
-metafile = true
-
-[[files]]
-file = "mods/wood-plus.pw.toml"
-hash = "f247a6e891b7d15d456878344a5a771f536f1b835800d3287128c928d9638d2d"
 metafile = true
 
 [[files]]
