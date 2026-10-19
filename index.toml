@@ -982,7 +982,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/Eclipse-Shader-Unstable.zip.pw.toml"
-hash = "66a2bd2a1f3df416ad617233591cb7adc0080dd11256a44eb19ba3caeff16364"
+hash = "9f6e772e246510663ae8054e353061cd1f67dddedb552111d7d95c25cbc49008"
 metafile = true
 
 [[files]]
