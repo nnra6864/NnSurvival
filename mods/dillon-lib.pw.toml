@@ -1,13 +1,13 @@
 name = "DillonLib"
-filename = "dillonlib-1.2.3_fabric-mc26.3.jar"
+filename = "dillonlib-1.2.4_fabric-mc26.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bClkejk5/versions/glzSPoSl/dillonlib-1.2.3_fabric-mc26.3.jar"
+url = "https://cdn.modrinth.com/data/bClkejk5/versions/BcEWZaWG/dillonlib-1.2.4_fabric-mc26.3.jar"
 hash-format = "sha512"
-hash = "47eaea29d82f69a5f42a946920294ee9b0e9b4b29c2a067fd357544110cc682f5a61d91943b43fa4bdb3a1c8f784f266ad9b9fb2fc89da7d2fa64911205b6ded"
+hash = "13ffe42935b0be9f346e5f534a8f08565e7ec091817ff976f65a46bcc9686979cd108f386fd7d7623f38c0b0713aafa7d7ca84e212919ea66cb8589cadfa6f28"
 
 [update]
 [update.modrinth]
 mod-id = "bClkejk5"
-version = "glzSPoSl"
+version = "BcEWZaWG"

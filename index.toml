@@ -102,7 +102,7 @@ hash = "49a69e39c5488d82726ac7eb151d4c7286a492b4e893d22086a234bdb22dad53"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "d948339327bc53e47c9133f0ec00db69d37a804d1bd35de20421344cdc6df94b"
+hash = "bb194ec7f1affde2fb2d6d052683e96babe72b693e4c3263dfd8245d3941b701"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "b3a3d61a442a41a1b4cabe37ca0c9807cce65d90fbc0432d8e33b0243025f23c"
+hash = "220a55f27ae0b5dbcf111bc720ff9b0e3c1255b095dcc80ec77f25bc7bc0d07d"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "cc3376222e041b85175308dd59c1dccb174c5f35ee13cc363dc5d3b995651e32"
+hash = "6852e54050a7efb40b6e1e3f17c76b13452b1717a3ae5713f0c6339100564e5a"
 metafile = true
 
 [[files]]
@@ -167,12 +167,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "97ffadc9852dc08c2d2b3c26d9bd8befb42e4e92a02ad8c171f7b960c7eb9b4f"
+hash = "ef4828e5b33f6331ff869f2ff551e7f937e4f4ca5df0f5f8a995d8fa477a83c3"
 metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "4094d2bccd278381f80de9eacd30dd8fa9242768d75626b4aba36fb010105f2d"
+hash = "90f923838a67e36a7766af7e59161339c01c4c38f72422bd4058a0903698eb94"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "de10bdef8fb648f67d5872522993e60902c3d87c6a45102466f2d2c7710e5ccc"
+hash = "ee523cfd058b4d85cc6a231c9a35aecffc1441098fbde5254fc34919115a4f53"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatanimation.pw.toml"
-hash = "ee61a0d82f97cca2c190db02ad7456dda366427986f5483fd700d9fb82338301"
+hash = "25fb78b1df295ff5bd35dc4d9181cbfe3040f0298c7e898f2bc389395d887ccd"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "7e3d364a831d96c8aa2bc6d385812308a38d6561ebff6dd13781400be4e3ce40"
+hash = "d3aedc361fa6fa735c72e83d0b35533460a0c732500b922410aa15e0b612e6a3"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/dillon-lib.pw.toml"
-hash = "97aac24c7ce755a9a19ecb0b20600d467fe39745955f2f899cede04acbba8b9b"
+hash = "4184894cb1f8f4c8847aab097362649db550822c1f616ab6a2df5004a1517b01"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "1a9da25a548d3daeb7365ef4123db16c86666d97e0f56d1fdd7faf0a8ae44e3b"
+hash = "ef61b919738bd84042575bd0615068f6c8ef6ed57b5ce846d684952cddc066a7"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "249b9a3bfcb8a23719e656abb121094e63c6d88eeab08f2fbd8ae569948d5303"
+hash = "6dae83195be2f55ba9d38d72bb0da399f8e90b60f70fb4d792820c4f0b1bac43"
 metafile = true
 
 [[files]]
@@ -552,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "ce7b2a4913f8279b1863db3fa8619dea900e0edcb81587853dc69087eaf1fb69"
+hash = "a97a71b6c04558671b7c9d092e692f2c84049d5c7c4a4885763377d8d62e48af"
 metafile = true
 
 [[files]]
@@ -617,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph_plus.pw.toml"
-hash = "fa1aa97fd5abee85c32e4a743a5c29f8caabb0b0bd414032f81b1a1508e166a5"
+hash = "2bcc80b57a0ba2d8111369dcf3679816d468844ffa23957fe2674bfdd99cc748"
 metafile = true
 
 [[files]]
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/quality-of-queso.pw.toml"
-hash = "dcf4b889c442a17a830435cd1e2af617e47adaedca4063130b3ce969508f101e"
+hash = "269fb029c3afc19a379c127b9ffd3a174e94ce705295bcde21df0ffa474ab056"
 metafile = true
 
 [[files]]
@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-scroll.pw.toml"
-hash = "55af76c886a3722340634451f253b1046a727104694976ca487c802071c30ed5"
+hash = "18f6165329096c1107aff62200d3dda959f417d74f41c4ae96a67c879f93a2fb"
 metafile = true
 
 [[files]]
@@ -717,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "95b014c29351598261257614a55955215bba353a93593b2050cb07da295d3302"
+hash = "0bf314c578473659bd89915114cac8e60994988f405218726a48d35b06e9316c"
 metafile = true
 
 [[files]]
@@ -782,7 +782,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "f0198cfd78c009eba2699c408dd50c716011d7f149c45f70ca21056066f4655d"
+hash = "12c110a8b1b654d71d1be5d9cc8538fa579d3f8adba607caf051bf519a7f636b"
 metafile = true
 
 [[files]]
@@ -832,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "f4ca095415a36b7150857dde3d81b589838ffe885102e19986416dc56ede98fb"
+hash = "95637027d29d45d1e3e3e1ceb231236d2cb1414c161b032bd09ca52e1b37c1c5"
 metafile = true
 
 [[files]]
@@ -937,7 +937,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "91f03f95a740457e053a3c265b56ebe3b26342205c5e25ba3e4668ed60312880"
+hash = "37d652881626cec7b328758d6193f57fa679230ce18fc2ce1c21969c2ce7a5e1"
 metafile = true
 
 [[files]]
