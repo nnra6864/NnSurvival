@@ -1,0 +1,13 @@
+name = "goldsqource"
+filename = "goldsqource-2.1.1+26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/il2eO0br/versions/Dc2y2hlC/goldsqource-2.1.1%2B26.3.jar"
+hash-format = "sha512"
+hash = "093b069ac52df474b69f4330cd9f81163d975ca83a32ebca6fda1a0b8aaa2fed6adb8f9da60beede0e6d56fcda0ca6f3b931876514efad611933e1df793b0cb0"
+
+[update]
+[update.modrinth]
+mod-id = "il2eO0br"
+version = "Dc2y2hlC"

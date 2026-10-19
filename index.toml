@@ -41,6 +41,10 @@ file = "config/gnetum.json"
 hash = "806022abea8b1a7fd47adc20237140d7baa1c3068231c162851a1e6dd91c2f1d"
 
 [[files]]
+file = "config/goldsqource.json"
+hash = "ee164a0c493a17bf56065b44b8b2b549724b789e13aed3d9fbcc6f6da54a00a7"
+
+[[files]]
 file = "config/iris.properties"
 hash = "c95f664833e48ada8261d7f86a8ecc2e757e008487fb558f19d6e0a7837ddd37"
 
@@ -393,6 +397,11 @@ metafile = true
 [[files]]
 file = "mods/gnetum.pw.toml"
 hash = "d0dd6962f8570ddb666d3952e6227312ac5cb881091cf9e9f5eb0bfd1271b185"
+metafile = true
+
+[[files]]
+file = "mods/goldsqource.pw.toml"
+hash = "e17f3f3e2338d9c1c585b13982f121057af25c20d90cd756e832ae3904e1a11b"
 metafile = true
 
 [[files]]
