@@ -835,6 +835,11 @@ hash = "d9d97625ca8e65c474f373012b72c02dc6b8bce909d5acc91561bc4e3d0cb705"
 metafile = true
 
 [[files]]
+file = "mods/voxy.pw.toml"
+hash = "19ae82550e2d7e5a444bb3c5c49777ecf6dfd6334e286ad499ca17235587d2ed"
+metafile = true
+
+[[files]]
 file = "mods/wakes-reforged.pw.toml"
 hash = "91c36c5a39654f63ac834dbd04434788553654d99cad47d302fac1dea6c59253"
 metafile = true
