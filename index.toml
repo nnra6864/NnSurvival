@@ -101,6 +101,10 @@ file = "config/sounds/world.json"
 hash = "e698f9f2184dad829d45013b85d821abce38a024d47822cbac5846778ca398a2"
 
 [[files]]
+file = "config/vss-server-config.yaml"
+hash = "db207f0eeec23171b280f9f852d9a3c655813f4c65e5748fad64d7650f874319"
+
+[[files]]
 file = "config/waystones-common.toml"
 hash = "49a69e39c5488d82726ac7eb151d4c7286a492b4e893d22086a234bdb22dad53"
 
@@ -292,11 +296,6 @@ metafile = true
 [[files]]
 file = "mods/dillon-lib.pw.toml"
 hash = "4184894cb1f8f4c8847aab097362649db550822c1f616ab6a2df5004a1517b01"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "8cfd619edd7190fdd7f048bc7815193699d0583857f988e421b8e7816167ad25"
 metafile = true
 
 [[files]]
