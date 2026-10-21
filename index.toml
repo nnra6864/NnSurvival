@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "d3aedc361fa6fa735c72e83d0b35533460a0c732500b922410aa15e0b612e6a3"
+hash = "48e6e4d7f0b5cc5f23d8ec0be604dc2e3a0029385baa5ba3a40bb5e3157af409"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "f9bd6e85174067ba0c09a571e1851a39f3eaa695624f5e3cf090edcaf141c35c"
+hash = "31024384ba1bcd7faab970ad6fb27e0d08bac75ae9dba987cf51eb76173ab0d3"
 metafile = true
 
 [[files]]
@@ -730,7 +730,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "1f2a07748eb8051e599f98f19a0ec89cd0ab536bb9c8dac0b644dbd80bfaa7c4"
+hash = "9bab2f7038705a3a14c522ef378743465a596f2d1e28305c2c9a291cbb7d6289"
 metafile = true
 
 [[files]]
@@ -955,7 +955,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "37d652881626cec7b328758d6193f57fa679230ce18fc2ce1c21969c2ce7a5e1"
+hash = "c9f80e36cc2baa3650e345213e80881625c16fc64d3990c2d651e4302c2b9303"
 metafile = true
 
 [[files]]
