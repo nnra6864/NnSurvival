@@ -1,4 +1,5 @@
 {
+    "quakeMovementEnabled": false,
     "speedCapEnabled": false,
     "speedDeltaIndicatorEnabled": false,
     "speedDiffIndicatorEnabled": false

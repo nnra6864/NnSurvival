@@ -42,7 +42,7 @@ hash = "806022abea8b1a7fd47adc20237140d7baa1c3068231c162851a1e6dd91c2f1d"
 
 [[files]]
 file = "config/goldsqource.json"
-hash = "ee164a0c493a17bf56065b44b8b2b549724b789e13aed3d9fbcc6f6da54a00a7"
+hash = "6a8faa2bc2eabd950691f9a1040f4322dbf0724dcf495dd8305f31d1e503ad1b"
 
 [[files]]
 file = "config/iris.properties"
