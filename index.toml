@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/beautify-refabricated.pw.toml"
-hash = "1e7943b9c0e83745b3ff3b61d99cea791f4637093b55a4766e9fbd8bd79192ab"
+hash = "f714021a2491d1663c588b54c21437f40fc2345d99df071d01773e6e2495f547"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "90f923838a67e36a7766af7e59161339c01c4c38f72422bd4058a0903698eb94"
+hash = "9f648aadbf85909f50fe658445febbf4e865e8a2ed5463156a126a0832351185"
 metafile = true
 
 [[files]]
@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockus.pw.toml"
-hash = "6141787d3e2debf744c6e551fc8575371a7ba1ca23423d319798e832efbc9133"
+hash = "99a46b7ef90b181b205f2673ee11131fc727dd6d54ec41d8fedbd5e4ba7092a2"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "ee523cfd058b4d85cc6a231c9a35aecffc1441098fbde5254fc34919115a4f53"
+hash = "f081b22d7707ee677ee596a2f81aed31a56d4ab96801ce7a7047f923cad3f190"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "cc26a2571ca3c41041a8eb35512a4c098292980e5bc0bc46c225ef672e567dfd"
+hash = "8943b63ce658eeaca3bfea0877048df8fd836b9ec4cb4bce7a98847147db6f25"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "31024384ba1bcd7faab970ad6fb27e0d08bac75ae9dba987cf51eb76173ab0d3"
+hash = "de8105faff1ccd5f46dc0c57141515b968e8f350725074599df9ba4122030a3d"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/dillon-lib.pw.toml"
-hash = "4184894cb1f8f4c8847aab097362649db550822c1f616ab6a2df5004a1517b01"
+hash = "cedb73eb0e196ce155c56eea0b5cc5dd8ce5fbf020e47fd66a72180f6efefcea"
 metafile = true
 
 [[files]]
@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6dae83195be2f55ba9d38d72bb0da399f8e90b60f70fb4d792820c4f0b1bac43"
+hash = "a4c31d16582621909eba9f06a34f03114d212c7e684c8dbc9991fb12a42e043b"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/fwa.pw.toml"
-hash = "e252308e6288f7a109701d518347849a801162e93d4fb8726417aaafbdfcf68f"
+hash = "d9ca129471ecac64d18cd49069bee53edd15c0f5467f785d30b217e385a27ce0"
 metafile = true
 
 [[files]]
@@ -450,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "a39389e4c813b70b984a0c8aed769825b32c321ee0b9aed1151d92cb38f77357"
+hash = "b44f3ab71e52f1aaae97cf8644f2316042de8b7777d6b6794567c8c7d220bd2b"
 metafile = true
 
 [[files]]
@@ -635,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "1468fe3ca18b35fc53563de46046b3ada11913f1ca2a74b057437474128df85a"
+hash = "1d781325cf9001dddce371f093e679e84e93024d62cc28e367343c4cc1d8ca04"
 metafile = true
 
 [[files]]
@@ -645,7 +645,7 @@ metafile = true
 
 [[files]]
 file = "mods/quality-of-queso.pw.toml"
-hash = "269fb029c3afc19a379c127b9ffd3a174e94ce705295bcde21df0ffa474ab056"
+hash = "41f88ac33b7cf059d2c6b7b8ec925ad8c72d4c93b2ff336336ce221e6ca4ae8b"
 metafile = true
 
 [[files]]
@@ -705,7 +705,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "538084be8eddcd5e682ab52c5d2a8d7ba956e1a25cd540389430c25d0eaa513d"
+hash = "6865b44c30baa85a87c344ac9d3e0eb0135e90b26a90a6dc28bf79a363170cf9"
 metafile = true
 
 [[files]]
@@ -720,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "69d683554d0db2dc59ce9ed08b28743ddb56d9ea12b80e52e43051d082987bd2"
+hash = "56bb32f1d8f7148d559b15806185b69023a7b04d228ed6143a54601ee5e57279"
 metafile = true
 
 [[files]]
@@ -780,7 +780,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "b95795bc5204e74a8c355949a302976bc7c1786cc2dfb1a6bf76c047be8860a6"
+hash = "3f609966fa6d2ce30c86f25277287f79d13942a3b0c211d535a78436012c76cf"
 metafile = true
 
 [[files]]
@@ -790,12 +790,12 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "12c110a8b1b654d71d1be5d9cc8538fa579d3f8adba607caf051bf519a7f636b"
+hash = "d6d90af04ff420052503b58380e649817e556fc75b41eb02b84ff1262011c50f"
 metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "389089217fd4b066300b15f38499a58d8f5734adaebb18d5d091050eabb87830"
+hash = "f690f6b906c8bf030587b239f23fb45651051de3d18bda5c4385a4687dfa317c"
 metafile = true
 
 [[files]]
@@ -810,7 +810,7 @@ metafile = true
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
-hash = "f9e2ed483e755dd5f9482764dec3979aca741df45b261c8b33c7ec70d9af3dd0"
+hash = "4e491951aa63bf70f11242b8165673e88fdb01e7b4510f4aa50d61d60dc3b266"
 metafile = true
 
 [[files]]
@@ -835,7 +835,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxy-server-side.pw.toml"
-hash = "2f9e52ece1cbbf856d1ce429422f96c32ea35ae78e57ae3a87afc64bc570cb42"
+hash = "ec5c200d8d5131e8c4151bb52f9ff374c8fd0ba1b65b5cd299962c038061178c"
 metafile = true
 
 [[files]]
@@ -875,7 +875,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "9340ec50bcad12369714aa7975a8e53d6fd20473f6f4a65c18f5eaeaaab8295a"
+hash = "cf91f2e90c6b5ee044754e70bcbb574dc4a182604b42398bd2476ed1d68df1f5"
 metafile = true
 
 [[files]]
@@ -960,7 +960,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-food.pw.toml"
-hash = "994220e42be5e64f925c753c660ce9c7cbaf1d6059428fd7f664ce8feca659c5"
+hash = "255e5e16e3f59423b303587cb57796c9043e0bd445707a6c088f0545d20e1f2b"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Quality of Queso"
-filename = "qualityofqueso-1.7.19_fabric-mc26.3.jar"
+filename = "qualityofqueso-1.7.20_fabric-mc26.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Sj7HGYie/versions/ETLJqknX/qualityofqueso-1.7.19_fabric-mc26.3.jar"
+url = "https://cdn.modrinth.com/data/Sj7HGYie/versions/3FPfRJ5u/qualityofqueso-1.7.20_fabric-mc26.3.jar"
 hash-format = "sha512"
-hash = "2b4cd502a40f83a02b5f3d53ffef6fee1c364320a0a3f5aa90d35a85b5757b3ee4e4cfba687bb6c8133081bccdcda3e2d0fb650e76a843c7797b968f2e0b2c90"
+hash = "e40feec4cddcc06615d246bc4989270e6b82c3b6983441d5effb6fa9afb837539c396c7074a56e127afc845720e5adeed7f054d0bd33448f8828d0e91e4720ed"
 
 [update]
 [update.modrinth]
 mod-id = "Sj7HGYie"
-version = "ETLJqknX"
+version = "3FPfRJ5u"
