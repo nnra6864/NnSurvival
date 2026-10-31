@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "f081b22d7707ee677ee596a2f81aed31a56d4ab96801ce7a7047f923cad3f190"
+hash = "d70fc5809299269a7867133453ab35c186a0eb55a6894ce7b998091e5acd5b3b"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "8943b63ce658eeaca3bfea0877048df8fd836b9ec4cb4bce7a98847147db6f25"
+hash = "d3f13a8d1cb46a1fdf38e90e7e82d66b55dc1fa1aec50a0a1cd05ae435f4bd9c"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/fwa.pw.toml"
-hash = "d9ca129471ecac64d18cd49069bee53edd15c0f5467f785d30b217e385a27ce0"
+hash = "e980531eebc943efe3e7808e4e6a6b195a590e93b055549ae14836d2d02858b4"
 metafile = true
 
 [[files]]
@@ -695,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-replay.pw.toml"
-hash = "24c57ba71ee0a961fd4ddfcd7f47aa329cd7bfd3241d30c0dbd76f6bb935bc0b"
+hash = "6d53228a64480816c78670d20b33abc1d7595a5b10e5d77cd4e177077769c001"
 metafile = true
 
 [[files]]
